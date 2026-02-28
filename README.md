@@ -1,4 +1,4 @@
-<img width="1103" height="191" alt="image" src="https://github.com/user-attachments/assets/28f21373-1b7a-4798-b9e1-16136b728e23" /># 🚀 React Chapter 1 – Fundamental Concepts
+# 🚀 React Chapter 1 – Fundamental Concepts
 
 ## 📖 Giới thiệu
 Đây là project học tập được xây dựng bằng **ReactJS**, tổng hợp các kiến thức nền tảng quan trọng như:
